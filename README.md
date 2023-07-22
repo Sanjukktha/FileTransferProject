@@ -1,0 +1,1 @@
+File Transfer Protocol (FTP) is an application layer protocol that moves files between local and remote file systems. FTP is used to download, upload, and transfer files from one location to another on the Internet and between computer systems. 
